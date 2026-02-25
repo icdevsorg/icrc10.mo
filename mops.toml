@@ -1,0 +1,16 @@
+[dependencies]
+core = "2.0.0"
+
+[dev-dependencies]
+test = "2.0.0"
+fuzz = "0.2.1"
+
+[package]
+name = "icrc10-mo"
+version = "0.2.0"
+description = "ICRC-10 for motoko"
+repository = "https://github.com/icdevsorg/icrc10.mo"
+keywords = [ "icrc10", "supported", "standards" ]
+
+[toolchain]
+moc = "1.1.0"
